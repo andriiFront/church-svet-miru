@@ -1,0 +1,17 @@
+@import "../../styles/utils";
+
+.logo {
+  background-image: url("../../images/logo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 1px solid white;
+  width: 115px;
+  height: 115px;
+  border-radius: 50%;
+    transition: transform 0.8s;
+  
+    &:hover {
+      transform: scale(1.1);
+    }
+}
