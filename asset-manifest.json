@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/church-svet-miru/static/css/main.ea30e723.css",
+    "main.js": "/church-svet-miru/static/js/main.f7285ef7.js",
+    "static/js/787.4d82396a.chunk.js": "/church-svet-miru/static/js/787.4d82396a.chunk.js",
+    "static/media/header.jpg": "/church-svet-miru/static/media/header.1e6748ce15d299eb9818.jpg",
+    "index.html": "/church-svet-miru/index.html",
+    "main.ea30e723.css.map": "/church-svet-miru/static/css/main.ea30e723.css.map",
+    "main.f7285ef7.js.map": "/church-svet-miru/static/js/main.f7285ef7.js.map",
+    "787.4d82396a.chunk.js.map": "/church-svet-miru/static/js/787.4d82396a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea30e723.css",
+    "static/js/main.f7285ef7.js"
+  ]
+}
