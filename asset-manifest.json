@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/church-svet-miru/static/css/main.ea30e723.css",
-    "main.js": "/church-svet-miru/static/js/main.f7285ef7.js",
+    "main.css": "/church-svet-miru/static/css/main.1ad35a15.css",
+    "main.js": "/church-svet-miru/static/js/main.04acd3c2.js",
     "static/js/787.4d82396a.chunk.js": "/church-svet-miru/static/js/787.4d82396a.chunk.js",
+    "static/media/footer.jpg": "/church-svet-miru/static/media/footer.eca9c5cc339fb6d03a57.jpg",
+    "static/media/3.jpg": "/church-svet-miru/static/media/3.f53e03355da1777ac0d1.jpg",
     "static/media/header.jpg": "/church-svet-miru/static/media/header.1e6748ce15d299eb9818.jpg",
+    "static/media/1.jpg": "/church-svet-miru/static/media/1.0a327772fbac0d30dea1.jpg",
+    "static/media/2.jpg": "/church-svet-miru/static/media/2.a3904a183d93b2bc2e79.jpg",
+    "static/media/4.jpg": "/church-svet-miru/static/media/4.2a57cfd08794cd00e4ea.jpg",
+    "static/media/5.jpg": "/church-svet-miru/static/media/5.d1aa5f0fe9a484ab468c.jpg",
+    "static/media/6.jpg": "/church-svet-miru/static/media/6.eddd36cb5bac035d5938.jpg",
+    "static/media/7.jpeg": "/church-svet-miru/static/media/7.cff071f5bc68423e3dbe.jpeg",
+    "static/media/8.jpeg": "/church-svet-miru/static/media/8.34fe4f820c5b742b52a4.jpeg",
+    "static/media/9.jpg": "/church-svet-miru/static/media/9.17bcd56236cbf4177c99.jpg",
+    "static/media/10.jpg": "/church-svet-miru/static/media/10.4f593bcb7b9268bb8ca1.jpg",
     "index.html": "/church-svet-miru/index.html",
-    "main.ea30e723.css.map": "/church-svet-miru/static/css/main.ea30e723.css.map",
-    "main.f7285ef7.js.map": "/church-svet-miru/static/js/main.f7285ef7.js.map",
+    "static/media/crown.svg": "/church-svet-miru/static/media/crown.34683ffe7414263bc85d.svg",
+    "main.1ad35a15.css.map": "/church-svet-miru/static/css/main.1ad35a15.css.map",
+    "main.04acd3c2.js.map": "/church-svet-miru/static/js/main.04acd3c2.js.map",
     "787.4d82396a.chunk.js.map": "/church-svet-miru/static/js/787.4d82396a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea30e723.css",
-    "static/js/main.f7285ef7.js"
+    "static/css/main.1ad35a15.css",
+    "static/js/main.04acd3c2.js"
   ]
 }
